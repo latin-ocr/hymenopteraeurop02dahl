@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hymenopteraeurop02dahl_0028.png"; bbox 0 0 1695 3277; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 409 1395 1612 1492">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 409 1395 1612 1492">
+     <span class='ocr_line' id='line_1_1' title="bbox 409 1395 1612 1435; baseline 0.001 -10"><span class='ocrx_word' id='word_1_1' title='bbox 409 1395 538 1435; x_wconf 82' lang='lat' dir='ltr'>Species</span> <span class='ocrx_word' id='word_1_2' title='bbox 570 1397 683 1435; x_wconf 84' lang='lat' dir='ltr'>„ipsas</span> <span class='ocrx_word' id='word_1_3' title='bbox 711 1406 776 1427; x_wconf 88' lang='lat' dir='ltr'><strong>non</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 807 1406 882 1428; x_wconf 88' lang='lat' dir='ltr'>vero</span> <span class='ocrx_word' id='word_1_5' title='bbox 907 1406 1071 1428; x_wconf 84' lang='lat' dir='ltr'><strong>numerum</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1097 1405 1204 1426; x_wconf 85' lang='lat' dir='ltr'><strong>earum</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1229 1398 1358 1426; x_wconf 82' lang='lat' dir='ltr'>auctum</span> <span class='ocrx_word' id='word_1_8' title='bbox 1382 1395 1612 1426; x_wconf 82' lang='lat' dir='ltr'><strong>attendendum·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 487 1453 666 1492; baseline 0 -9"><span class='ocrx_word' id='word_1_9' title='bbox 487 1453 631 1492; x_wconf 82' lang='lat' dir='ltr'><strong>judicavi</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 639 1455 666 1483; x_wconf 87' lang='lat'><strong>“.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 977 1527 1498 1560">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 977 1527 1498 1560">
+     <span class='ocr_line' id='line_1_3' title="bbox 977 1527 1498 1560; baseline 0 -2"><span class='ocrx_word' id='word_1_11' title='bbox 977 1529 1003 1558; x_wconf 91' lang='lat' dir='ltr'>L</span> <span class='ocrx_word' id='word_1_12' title='bbox 1014 1529 1081 1558; x_wconf 85' lang='lat' dir='ltr'><strong>inu</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1089 1527 1106 1558; x_wconf 77' lang='grc' dir='ltr'>ό</span> <span class='ocrx_word' id='word_1_14' title='bbox 1130 1529 1214 1560; x_wconf 85' lang='lat' dir='ltr'>Flor.</span> <span class='ocrx_word' id='word_1_15' title='bbox 1242 1528 1332 1559; x_wconf 79' lang='lat' dir='ltr'>Svec.</span> <span class='ocrx_word' id='word_1_16' title='bbox 1361 1528 1498 1558; x_wconf 86' lang='lat' dir='ltr'>Praefat.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

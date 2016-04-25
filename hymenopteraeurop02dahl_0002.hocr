@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hymenopteraeurop02dahl_0002.png"; bbox 0 0 1695 3277; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 404 216 1086 422">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 404 216 1086 422">
+     <span class='ocr_line' id='line_1_1' title="bbox 404 216 1086 267; baseline 0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 404 216 564 264; x_wconf 95' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_2' title='bbox 606 217 1086 267; x_wconf 92' lang='lat' dir='ltr'><strong>UNIVERSITY</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 504 369 980 422; baseline -0.002 -2"><span class='ocrx_word' id='word_1_3' title='bbox 504 371 603 420; x_wconf 91' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_4' title='bbox 641 369 980 422; x_wconf 92' lang='lat' dir='ltr'>ILLINOIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 572 527 911 576">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 572 527 911 576">
+     <span class='ocr_line' id='line_1_3' title="bbox 572 527 911 576; baseline -0.003 0"><span class='ocrx_word' id='word_1_5' title='bbox 572 527 911 576; x_wconf 91' lang='lat' dir='ltr'><strong>LIBRARY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 440 1561 1022 1657">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 440 1561 1022 1657">
+     <span class='ocr_line' id='line_1_4' title="bbox 440 1561 1022 1657; baseline 0.003 -27"><span class='ocrx_word' id='word_1_6' title='bbox 440 1561 622 1657; x_wconf 58' lang='lat' dir='ltr'>Pfgilip</span> <span class='ocrx_word' id='word_1_7' title='bbox 676 1561 750 1648; x_wconf 56' lang='grc' dir='ltr'>β,</span> <span class='ocrx_word' id='word_1_8' title='bbox 806 1563 1022 1644; x_wconf 63' lang='lat' dir='ltr'>ffitmmt.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 156 0 1308 1908">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 156 0 1308 1908">
+     <span class='ocr_line' id='line_1_5' title="bbox 156 0 1308 1908; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 156 0 1308 1908; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
